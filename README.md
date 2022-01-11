@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>카카오톡 버튼있는 메시지 전송하기</title>
+<title>알림토커</title>
 <script id="javascript-sdk" src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
 </head>
 <body>
