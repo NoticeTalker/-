@@ -19,7 +19,7 @@
         title: '제목',
         description: '설명',
         imageUrl:
-          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nj7KIZFY7DYHDchQpcJ2ObP5EtUk6gP62A3GxMX7nQAGicAcUSIgHKV-s4ghyo32Ckk&usqp=CAU',
+          'https://i.ytimg.com/an/SPkqNswafRyRV9JrrmZDLw/featured_channel.jpg?v=600aa51b',
         link: {
           mobileWebUrl: '사진클릭시 모바일 주소',
           webUrl: '사진클릭시 PC 주소',
