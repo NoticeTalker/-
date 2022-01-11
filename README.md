@@ -16,11 +16,11 @@
     Kakao.Link.sendDefault({
       objectType: 'feed',
       content: {
-        title: '제목',
-        description: '설명',
+        title: 'LVC 블로그에 놀러오세요!',
+        description: 'LVC 블로그에는 다양한 주제의 글들이 있습니다. ',
         imageUrl:
           'https://i.ytimg.com/an/SPkqNswafRyRV9JrrmZDLw/featured_channel.jpg?v=600aa51b',
-        link: {
+        link: {https://blog.naver.com/hanlyn1110
           mobileWebUrl: '사진클릭시 모바일 주소',
           webUrl: '사진클릭시 PC 주소',
         },
